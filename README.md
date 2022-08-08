@@ -37,7 +37,7 @@ Kindly modify the files as needed.
 
 - GitHub: [@Yazino12](https://github.com/Yazino12)
 - Twitter: [@yasino24](https://twitter.com/yasino24)
-- LinkedIn: [yasin-warsame-a4176217a](https://linkedin.com/in/yasin-warsame-a4176217a)
+- LinkedIn: [yasin-warsame](https://linkedin.com/in/yasin-warsame-a4176217a)
 
 ## 🤝 Contributing
 
