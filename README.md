@@ -15,9 +15,9 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-- Make sure you already installed Ruby version 3 or higher and Git.
-- Make sure you have Postgresql installed.
-- Make sure you have Rails installed.
+- Make sure you already installed **Ruby** version 3 or higher and Git.
+- Make sure you have **Postgresql** installed.
+- Make sure you have **Rails** installed.
 
 ### Setup
 
