@@ -1,24 +1,50 @@
-# README
+# Ruby-on-rails Hello World
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Things you may want to cover:
+Rails 'Hello World!' project!
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby-on-Rails
+- Postgresql
 
-* Configuration
+## Getting Started
 
-* Database creation
+To get a local copy up and running follow these simple steps.
 
-* Database initialization
+### Prerequisites
 
-* How to run the test suite
+- Make sure you already installed Ruby version 3 or higher and Git.
+- Make sure you have Postgresql installed.
+- Make sure you have Rails installed.
 
-* Services (job queues, cache servers, search engines, etc.)
+### Setup
 
-* Deployment instructions
+Clone the repository using the below commands.
 
-* ...
+- `https://github.com/Yazino12/hello-rails.git `
+- `cd hello-rails`
+- `rails s`
+
+### Usage
+
+Kindly modify the files as needed.
+
+## Authors
+
+👤 **Yasin Warsame**
+
+- GitHub: [@Yazino12](https://github.com/Yazino12)
+- Twitter: [@yasino24](https://twitter.com/yasino24)
+- LinkedIn: [yasin-warsame-a4176217a](https://linkedin.com/in/yasin-warsame-a4176217a)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Yazino12/hello-rails/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
