@@ -1,6 +1,6 @@
-# Ruby-on-rails Hello World
+![](https://img.shields.io/badge/-Yazino12-yellow)
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Ruby-on-rails Hello World
 
 > Rails 'Hello World!' project!
 
